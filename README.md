@@ -22,6 +22,8 @@ My projects
 * [git-experiments](https://github.com/rsp/git-experiments) (Git)
 * [docker-experiments](https://github.com/rsp/docker-experiments) (Docker)
 * [node-experiments](https://github.com/rsp/node-experiments) (Node.js)
+* [scripting-wars](https://github.com/rsp/scripting-wars) (misc)
+* [gh-pages-no-extension](https://github.com/rsp/gh-pages-no-extension) (GitHub Pages)
 
 ### Shell scripts
 
@@ -33,13 +35,18 @@ My projects
 * [internalip](https://github.com/rsp/scripts/blob/master/internalip.md)
 * [externalip](https://github.com/rsp/scripts/blob/master/externalip.md)
 * [externalip-benchmark](https://github.com/rsp/scripts/blob/master/externalip-benchmark.md)
+* [ajax-cdn-speed-test](https://github.com/rsp/ajax-cdn-speed-test)
+
+### Misc
+
+* [pg-scott](https://github.com/rsp/pg-scott) - Classical Scott database (EMP, DEPT, SALGRADE) for PostgreSQL
+* [docker-pg-scott](https://github.com/rsp/docker-pg-scott) - PostgreSQL with a classical Scott database in Docker
+* [docker-pg-scott-nd](https://github.com/rsp/docker-pg-scott-nd) - PostgreSQL with a classical Scott database in Docker, nd version
+* [Save for Posterity](https://rsp.github.io/save-for-posterity/) bookmarklet
 
 ### More projects
 
-See:
-
-* https://github.com/rsp?tab=repositories
-
+See [my other repositories](https://github.com/rsp?tab=repositories)
 and look for projects without the "rsp-" prefix in their name.
 
 My projects on GitHub with names starting with "rsp-" prefix
@@ -51,9 +58,32 @@ for backup purposes but are unlikely to be useful for enyone else.
 My contributions
 ----------------
 
-See:
+### Node.js core
+
+* https://github.com/nodejs/node/blob/master/AUTHORS#L868
+
+### The npm project
+
+* https://github.com/npm/npm/blob/master/AUTHORS#L343
+
+### Node modules
+
+* https://github.com/sindresorhus/package-json
+* https://github.com/emerleite/node-gravatar
+* https://github.com/krrishd/gitio
+* https://www.npmjs.com/package/node-ipc
+* https://github.com/geek/hapi-example
+
+### Misc
+
+* https://github.com/statianzo/vim-jade
+* https://github.com/rsp/modern_perl_book
+* https://github.com/kraih/mojo
+
+For a full list, see:
 
 * https://libraries.io/github/rsp
+* https://stackoverflow.com/cv/rsp#open-source
 
 My writing
 ----------
@@ -74,6 +104,13 @@ My writing
 * [Back to the Backend Era, Part 5 — A Simple Matter of Programming](https://medium.com/serverless-with-syncano/back-to-the-backend-era-part-5-f2c52479a532)
 * [Back to the Backend Era, Part 6 — First Problems and Hope](https://medium.com/serverless-with-syncano/back-to-the-backend-era-part-6-11f290e59587)
 * [Serverless with Syncano — Musings on Serverless Architecture](https://medium.com/serverless-with-syncano)
+
+### GitHub
+
+* [How to remove HTML extension from GitHub Pages in 0 easy steps](https://rsp.github.io/gh-pages-no-extension/)
+* [Minimal Irreducible JavaScript](https://github.com/rsp/node-mijs) (work in progress)
+* [JavaScript: The Irreducible Parts](https://github.com/rsp/jstip) (work in progress)
+
 
 ### StackOverflow
 
