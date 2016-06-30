@@ -96,7 +96,10 @@ My articles
 
 ### Wikipedia
 
+I have made 4,800+ contributions to English Wikipedia articles since 2004:
+
 * [My contributions on Wikipedia](https://en.wikipedia.org/w/index.php?title=Special:Contributions/rfl&offset=&limit=500&target=Rfl)
+* [My Wikipedia user profile](https://en.wikipedia.org/wiki/User:Rfl)
 
 ### Medium
 
