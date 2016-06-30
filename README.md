@@ -110,6 +110,8 @@ My writing
 * [How to remove HTML extension from GitHub Pages in 0 easy steps](https://rsp.github.io/gh-pages-no-extension/)
 * [Minimal Irreducible JavaScript](https://github.com/rsp/node-mijs) (work in progress)
 * [JavaScript: The Irreducible Parts](https://github.com/rsp/jstip) (work in progress)
+* [Promise You Call Me Back](https://gist.github.com/rsp/80f9f72acf95e8d53da7) - callbacks vs. promises vs. events
+* [I/O API of My Dreams](https://gist.github.com/rsp/008fc3d761ccb16086d0)
 
 
 ### StackOverflow
