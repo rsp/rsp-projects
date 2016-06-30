@@ -1,8 +1,7 @@
 rsp-projects
 ============
 
-Projects by Rafał Pocztarski
-----------------------------
+### Projects by Rafał Pocztarski
 
 My projects
 -----------
@@ -35,7 +34,9 @@ My projects
 * [externalip](https://github.com/rsp/scripts/blob/master/externalip.md)
 * [externalip-benchmark](https://github.com/rsp/scripts/blob/master/externalip-benchmark.md)
 
-See also:
+### More projects
+
+See:
 
 * https://github.com/rsp?tab=repositories
 
@@ -44,9 +45,26 @@ and look for projects without the "rsp-" prefix in their name.
 My projects on GitHub with names starting with "rsp-" prefix
 (not to be confused with rsp suffix or infix)
 are either some experiments, early stage work in progress or
-[my internal projects](https://github.com/rsp/rsp-projects)
-that are in public repositories mostly
+my internal projects that are in public repositories mostly
 for backup purposes but are unlikely to be useful for enyone else.
+
+My contributions
+----------------
+
+See:
+
+* https://libraries.io/github/rsp
+
+My writing
+----------
+
+### Medium
+
+### StackOverflow
+
+
+More info
+---------
 
 For more info see:
 
@@ -62,4 +80,3 @@ For more info see:
 [AngelList](https://angel.co/pocztarski)
 [StackExchange](https://stackexchange.com/users/303952/rsp)
 [StackOverflow](https://stackoverflow.com/users/613198/rsp)
-
