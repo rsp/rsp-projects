@@ -121,7 +121,6 @@ My writing
 ### StackOverflow and StackExchange
 
 * [Pros and Cons of Facebook's React vs. Web Components (Polymer)](https://programmers.stackexchange.com/questions/225400/pros-and-cons-of-facebooks-react-vs-web-components-polymer/237762#237762)
-
 * [Difference between CouchDB and Couchbase](https://stackoverflow.com/questions/5578608/difference-between-couchdb-and-couchbase/15184612#15184612)
 * [jQuery: Return data after ajax call success](https://stackoverflow.com/questions/5316697/jquery-return-data-after-ajax-call-success/5316805#5316805)
 * [What are some empirical technical reasons not to use jQuery?](https://stackoverflow.com/questions/5099949/what-are-some-empirical-technical-reasons-not-to-use-jquery/5100169#5100169)
