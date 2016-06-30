@@ -3,6 +3,9 @@ rsp-projects
 
 ### Projects by Rafał Pocztarski
 
+[![My Stack Exchange flair](https://stackexchange.com/users/flair/303952.png)](https://stackexchange.com/users/303952/rsp)<br>[![SO](https://cdnjs.cloudflare.com/ajax/libs/webicons/2.0.0/webicons/webicon-stackoverflow.png)](https://stackoverflow.com/users/613198) [![Twitter](https://cdnjs.cloudflare.com/ajax/libs/webicons/2.0.0/webicons/webicon-twitter.png)](https://twitter.com/pocztarski) [![LinkedIn](https://cdnjs.cloudflare.com/ajax/libs/webicons/2.0.0/webicons/webicon-linkedin.png)](https://www.linkedin.com/in/pocztarski) [![Facebook](https://cdnjs.cloudflare.com/ajax/libs/webicons/2.0.0/webicons/webicon-facebook.png)](https://www.facebook.com/pocztarski) [![G+](https://cdnjs.cloudflare.com/ajax/libs/webicons/2.0.0/webicons/webicon-googleplus.png)](https://plus.google.com/106457556668508404492/about) [![GitHub](https://cdnjs.cloudflare.com/ajax/libs/webicons/2.0.0/webicons/webicon-github.png)](https://github.com/rsp) [<img src="https://www.npmjs.com/static/images/touch-icons/apple-touch-icon-180x180.png" width="48" height="48"> ](https://www.npmjs.com/~rsp)
+
+
 My projects
 -----------
 
@@ -115,6 +118,23 @@ My writing
 
 
 ### StackOverflow
+
+* [Pros and Cons of Facebook's React vs. Web Components (Polymer)](https://programmers.stackexchange.com/questions/225400/pros-and-cons-of-facebooks-react-vs-web-components-polymer/237762#237762)
+* [
+
+More:
+
+* https://stackoverflow.com/users/613198/rsp
+* https://programmers.stackexchange.com/users/18691/rsp
+* https://superuser.com/users/160960/rsp
+* https://unix.stackexchange.com/users/23774/rsp
+* https://askubuntu.com/users/11582/rsp
+* https://webmasters.stackexchange.com/users/18617/rsp
+* https://serverfault.com/users/138110/rsp
+* https://photo.stackexchange.com/users/35590/rsp
+* https://softwarerecs.stackexchange.com/users/10574/rsp
+* https://codereview.stackexchange.com/users/16853/rsp
+* https://dba.stackexchange.com/users/12854/rsp
 
 More info
 ---------
