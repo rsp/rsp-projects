@@ -101,13 +101,13 @@ My writing
 * [What if I told you there are no tables in relational databases?](https://medium.com/@pocztarski/what-if-i-told-you-there-are-no-tables-in-relational-databases-13d31a2f9677)<br/>The relational model explained using fashion, two crucial sentences and common sense.
 * [Nonblacking I/O on the planet Asynchronia256/16](https://medium.com/@pocztarski/nonblacking-i-o-on-the-planet-asyncronia256-16-94df0af04ddc)<br/>A short story loosely based on uncertain facts.
 * [Shame-driven development](https://medium.com/@pocztarski/shame-driven-development-4545fae46fd)<br/>The real driving force of open-source software quality.
-* [Back to the Backend Era, Part 1 — The Fundamentals](https://medium.com/serverless-with-syncano/back-to-the-backend-era-96c49b7ee928)
-* [Back to the Backend Era, Part 2 — The Programming Language](https://medium.com/serverless-with-syncano/back-to-the-backend-era-part-2-5b23464a259f)
-* [Back to the Backend Era, Part 3 — The Database and the Rest](https://medium.com/serverless-with-syncano/back-to-the-backend-era-part-3-7363af96b201)
-* [Back to the Backend Era, Part 4 — Provisioning](https://medium.com/serverless-with-syncano/back-to-the-backend-era-part-4-e948a6fc8bd3)
-* [Back to the Backend Era, Part 5 — A Simple Matter of Programming](https://medium.com/serverless-with-syncano/back-to-the-backend-era-part-5-f2c52479a532)
-* [Back to the Backend Era, Part 6 — First Problems and Hope](https://medium.com/serverless-with-syncano/back-to-the-backend-era-part-6-11f290e59587)
-* [Serverless with Syncano — Musings on Serverless Architecture](https://medium.com/serverless-with-syncano)
+* [Back to the Backend Era, Part 1 - The Fundamentals](https://medium.com/serverless-with-syncano/back-to-the-backend-era-96c49b7ee928)
+* [Back to the Backend Era, Part 2 - The Programming Language](https://medium.com/serverless-with-syncano/back-to-the-backend-era-part-2-5b23464a259f)
+* [Back to the Backend Era, Part 3 - The Database and the Rest](https://medium.com/serverless-with-syncano/back-to-the-backend-era-part-3-7363af96b201)
+* [Back to the Backend Era, Part 4 - Provisioning](https://medium.com/serverless-with-syncano/back-to-the-backend-era-part-4-e948a6fc8bd3)
+* [Back to the Backend Era, Part 5 - A Simple Matter of Programming](https://medium.com/serverless-with-syncano/back-to-the-backend-era-part-5-f2c52479a532)
+* [Back to the Backend Era, Part 6 - First Problems and Hope](https://medium.com/serverless-with-syncano/back-to-the-backend-era-part-6-11f290e59587)
+* [Serverless with Syncano - Musings on Serverless Architecture](https://medium.com/serverless-with-syncano)
 
 ### GitHub
 
